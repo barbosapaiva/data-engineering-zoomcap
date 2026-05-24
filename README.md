@@ -1,4 +1,4 @@
-# Data Engineering Zoomcamp
+# Data Engineering Zoomcamp (https://github.com/DataTalksClub/data-engineering-zoomcamp)
 
 This repository documents my progress through the Data Engineering Zoomcamp by DataTalks.Club, led by Alexey Grigorev.
 
@@ -6,14 +6,14 @@ The goal of this repository is to track my learning journey, exercises, and prac
 
 ## Course Content
 
-### Module 1: Containerization and Infrastructure as Code #(DONE)
+### Module 1: Containerization and Infrastructure as Code <sub>done</sub>
 
 - Introduction to Google Cloud Platform (GCP)
 - Docker and Docker Compose
 - Running PostgreSQL with Docker
 - Infrastructure setup with Terraform
 
-### Module 2: Workflow Orchestration #(DONE)
+### Module 2: Workflow Orchestration <sub>done</sub>
 
 - Introduction to data lakes and workflow orchestration
 - Building workflows with Kestra
