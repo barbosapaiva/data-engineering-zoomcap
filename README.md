@@ -21,7 +21,7 @@ The goal of this repository is to track my learning journey and practical implem
 - API reading and pipeline scalability
 - Data normalization and incremental loading
 
-## Module 3: Data Warehousing
+## Module 3: Data Warehousing <sub>done</sub>
 - Introduction to BigQuery
 - Partitioning, clustering, and best practices
 - Machine learning in BigQuery
